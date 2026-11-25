@@ -1,0 +1,14 @@
+[
+  {
+    "login": "admin",
+    "role": "Администратор",
+    "email": "admin@gmail.com",
+    "image": "https://picsum.photos"
+  },
+  {
+    "login": "user",
+    "role": "Пользователь",
+    "email": "user@gmail.com",
+    "image": "https://picsum.photos"
+  }
+]
